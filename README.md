@@ -100,24 +100,9 @@ Telegram-ассистент, который работает с текстом, 
 
 ## GitHub статистика
 
-<table>
-  <tr>
-    <td>
-      <img
-        height="170"
-        src="https://github-readme-stats.vercel.app/api?username=Tata-Tiana&show_icons=true&hide_border=true&border_radius=8&title_color=10A37F&icon_color=10A37F&text_color=24292F&bg_color=FFFFFF&custom_title=GitHub%20Stats"
-        alt="GitHub статистика"
-      />
-    </td>
-    <td>
-      <img
-        height="170"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tata-Tiana&layout=compact&hide_border=true&border_radius=8&title_color=10A37F&text_color=24292F&bg_color=FFFFFF&langs_count=8&custom_title=Top%20Languages"
-        alt="Самые используемые языки"
-      />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tata-Tiana&show_icons=true&theme=default&hide_border=false&border_radius=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tata-Tiana&layout=compact&theme=default&hide_border=false&border_radius=6)
+
 
 ---
 
