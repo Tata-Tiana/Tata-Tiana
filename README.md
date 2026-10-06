@@ -39,6 +39,16 @@
 
 ## Избранные проекты
 
+### ИИ-сметчик для строительных проектов
+
+Production-система подготовки смет частных домов по проектной документации.
+
+AI-модель извлекает из PDF структурированные исходные данные, Telegram-бот организует проверку и исправление JSON, Google Sheets используется для контроля объёмов и цен, а детерминированные Python-калькуляторы формируют итоговую смету в Excel.
+
+**Стек:** Python, Telegram Bot API, Google Drive API, Google Sheets API, OpenPyXL, JSON/YAML, systemd
+
+**Репозиторий (production):** https://github.com/Tata-Tiana/ai-estimator-mvp/tree/production
+
 ### RAG Assistant для базы знаний компании
 
 AI-ассистент для ответов на вопросы клиентов по локальной базе знаний.  
